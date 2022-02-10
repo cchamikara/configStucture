@@ -1,0 +1,4 @@
+MAGENTO_BACKEND_URL: https://mcprod2.tarocash.com.au/
+MAGENTO_BACKEND_MEDIA_URL: https://mcprod2.tarocash.com.au/media/
+
+BV_URL_PATH: "tarocash/main_site/production/en_AU"
